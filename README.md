@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiss-krisztian&label=Profile%20views&color=0e75b6&style=flat" alt="kiss-krisztian" /> </p>
 
-- 🔭 I’m currently working on [Fruit Ninja](https://github.com/KissKrisz215/fruit-ninja) | (https://github.com/KissKrisz215/shortly) 
+- 🔭 I’m currently working on [Fruit Ninja](https://github.com/KissKrisz215/fruit-ninja) | [Shortly](https://github.com/KissKrisz215/shortly) 
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB**
 
