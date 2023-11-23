@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Krisztian</h1>
 <h3 align="left">A passionate Full Stack developer</h3>
 
-*   🌍  I'm based in Delft, Netherlands
+*   🌍  I'm based in Budapest, Hungary
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer">Portfolio</a>
 *   🧠  Currently learning React
 
