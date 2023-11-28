@@ -3,7 +3,6 @@
 
 *   🌍  I'm based in Budapest, Hungary
 *   🖥️  See my portfolio at <a href="https://portfolio-ashen-rho-70.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
-*   🧠  Currently learning React
 
 
 ### Languages & Tools
